@@ -1,4 +1,4 @@
-# Flask + MySQL CRUD — README
+# Flask + MySQL CRUD — README https://chatgpt.com/c/68beddde-c4dc-8322-ae20-4dd4317de34e
 
 A minimal, production-ready starter for a Flask CRUD app backed by MySQL. It includes a simple `User` model, Bootstrap-based pages (List/Add/Edit), and clear setup steps for Windows/macOS/Linux.
 
